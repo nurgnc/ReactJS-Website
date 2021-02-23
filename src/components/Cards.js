@@ -36,7 +36,7 @@ function Cards() {
                             path ='/services'
                         />
                         <CardItem
-                            src= "images/img-2.jpg"
+                            src= "images/img-8.jpg"
                             text="Ride through the Sahara Desert on a guided camel tour"
                             label ="Adrenaline"
                             path ='/sign-up'
