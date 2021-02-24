@@ -1,4 +1,8 @@
+# Introduction
+It is an beginner-level project that I have created to improve my React knowledge. I used the component structure, Routing operations and Hook methods in this project.
 
+# Demo
+![](public/ReactJS-Website.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
